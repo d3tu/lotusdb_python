@@ -1,7 +1,8 @@
 from setuptools import setup, find_packages
+
 setup(
     name='lotusdb',
-    version='0.0.9',
+    version='0.1.1',
     author='d3tu',
     author_email='jpafly@gmail.com',
     description='pydb',
